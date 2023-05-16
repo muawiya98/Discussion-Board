@@ -1,0 +1,13 @@
+body {
+    background-image: url(../img/FB_IMG_1590753203938.jpg);
+}
+.log {
+    font-family: 'Peralta',cursive;
+}
+.logo a {
+    color: rgba(0,0,0,.9);
+}
+.logo a:hover,
+.loger a:active{
+    text-decoration: none;
+}
